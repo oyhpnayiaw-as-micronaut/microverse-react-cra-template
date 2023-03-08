@@ -14,6 +14,7 @@ specifiers:
   eslint-plugin-jsx-a11y: 6.x
   eslint-plugin-react: 7.x
   eslint-plugin-react-hooks: 4.x
+  prop-types: ^15.8.1
   react: ^18.2.0
   react-dom: ^18.2.0
   react-scripts: 5.0.1
@@ -27,6 +28,7 @@ dependencies:
   '@testing-library/jest-dom': 5.16.5
   '@testing-library/react': 13.4.0_biqbaboplfbrettd7655fr4n2y
   '@testing-library/user-event': 13.5.0_yxlyej73nftwmh2fiao7paxmlm
+  prop-types: 15.8.1
   react: 18.2.0
   react-dom: 18.2.0_react@18.2.0
   react-scripts: 5.0.1_t7fgcntvwtaitohildtp6wz7bi
